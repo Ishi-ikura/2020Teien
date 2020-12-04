@@ -1,0 +1,19 @@
+body {
+  background: #CCFFCC;
+  margin: 0px auto;
+}
+
+.bodyX {
+  width: 96%;
+  margin: 0 auto;
+  margin-bottom: 100px;
+  background: #fff;
+}
+
+header {
+  text-align: center;
+}
+
+.wrapper {
+  margin: 10px 5px;
+}
